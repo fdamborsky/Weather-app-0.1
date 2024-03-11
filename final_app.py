@@ -25,7 +25,7 @@ description = "..."
 input_text = ""
 
 # - REQUEST DETAILS
-api_key = "c2657634f3564350e9b9d3b5c76d2ae6"
+api_key = "your own api key"
 
 # - FUNCTION    
 
